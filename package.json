@@ -1,0 +1,22 @@
+{
+  "name": "damong",
+  "version": "1.0.0",
+  "description": "damong bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starcraft66/damong.git"
+  },
+  "author": "starcraft66",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/starcraft66/damong/issues"
+  },
+  "homepage": "https://github.com/starcraft66/damong#readme",
+  "dependencies": {
+    "minecraft-protocol": "^0.14.0"
+  }
+}
